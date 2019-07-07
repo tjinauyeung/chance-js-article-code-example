@@ -1,0 +1,15 @@
+{
+  "name": "generate-random-mock-data-with-chance",
+  "version": "1.0.0",
+  "description": "Code example for article on Chance.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Tjin Au Yeung",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
+    "chance": "^1.0.18",
+    "jest": "^24.8.0"
+  }
+}
