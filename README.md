@@ -1,5 +1,5 @@
 ### Project
-Code example on [Chance.js article](https://www.tjinauyeung.nl/articles/random-data-with-chance)
+Code example on [Chance.js article](https://tjinauyeung.com/articles/generate-random-mock-data-with-chance)
 
 ### Dependencies
 - [Node.js](https://nodejs.org/en/)
